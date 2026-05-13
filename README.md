@@ -11,6 +11,12 @@ Faucet :
 ```
 http://faucet.reef-node-reefdevcluster-1e797e-72-60-35-83.sslip.io
 ```
+
+Explorer Frontend:
+
+```
+http://explorer-frontend-y3vx1v-aaa30a-72-60-35-83.sslip.io/
+```
   
 Explorer API: 
 
