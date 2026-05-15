@@ -30,3 +30,9 @@ REEF Application:
 http://reef-node-reefapp-kcriyx-a2707a-72-60-35-83.sslip.io/
 ```
 
+Sqwid NFT Marketplace
+
+```
+https://sqwid-nft-marketplace-sdhnw1-ed5c1b-72-60-35-83.sslip.io/
+```
+
