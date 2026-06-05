@@ -9,4 +9,4 @@
 | **REEF Application**      | Main REEF dApp interface         | `https://reef-node-reefdevcluster-df2501-72-60-35-83.nip.io/`          |
 | **Sqwid NFT Marketplace** | NFT marketplace on REEF          | `https://sqwid-marketplace-piuio6-7b4d22-72-60-35-83.nip.io/`          |
 | **Specs Generator**         | Substrate JSON-RPC endpoint      | `https://spec.reef-node-reefdevcluster-336219-72-60-35-83.nip.io/`     |
-| **WebSocket RPC**         | Substrate WebSocket endpoint     | `wss://ws.reef-node-reefdevcluster-735943-72-60-35-83.nip.io/`         |
+| **WebSocket RPC**         | Substrate WebSocket endpoint     | `wss://ws.reef-node-reefdevcluster-735943-72-60-35-83.nip.io/` , `http://35.188.104.231:8545/`        |
